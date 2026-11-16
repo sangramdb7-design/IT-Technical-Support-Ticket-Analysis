@@ -28,4 +28,3 @@ Based on the SQL analysis, I recommend a 3-step operations strategy for leadersh
 ## 📂 Repository Structure
 * `SQL_data_setup.sql`: Table creation and data import scripts.
 * `SQL_business_queries.sql`: The 14 analytical queries and engineered views used to extract insights.
-* `IT_Support_Ticket_Analysis_LinkedIn_Carousel.pdf`: Visual case study and slide deck for non-technical stakeholders.
