@@ -2,7 +2,7 @@
 
 **Dataset Used:** [Kaggle - IT Support Tickets (100K)](https://www.kaggle.com/datasets/ahsanneural/synthetic-it-support-tickets)
 
-**📄 [View the Full Executive Presentation (PDF)](IT_Support_Ticket_Analysis_LinkedIn_Carousel.pdf)**
+**📄 [View the Full Executive Presentation](https://portfolio-sangram.vercel.app/project_1)**
 
 ## 📝 Problem Statement
 Enterprise IT service desks manage high volumes of multi-channel support tickets. Despite having dedicated support queues, operations leadership faces recurring SLA (Service Level Agreement) breach spikes, elevated ticket reopen rates, and delayed resolution times. 
